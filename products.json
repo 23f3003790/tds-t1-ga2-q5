@@ -21,7 +21,7 @@
     { "id": "prod-6c62bc38-015", "name": "Elite Item 15", "category": "electronics", "price": 140.04, "stock": 25, "rating": 2.7 }
   ],
   "aggregations": {
-  "sports": { "count": 5, "inventoryValue": 130735.67 },
+  "sports": { "count": 5, "inventoryValue": 131143.66 },
   "home": { "count": 4, "inventoryValue": 54462.74 },
   "books": { "count": 3, "inventoryValue": 137867.82 },
   "clothing": { "count": 2, "inventoryValue": 89496.65 },
